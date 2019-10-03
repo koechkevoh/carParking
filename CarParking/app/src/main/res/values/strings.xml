@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarParking</string>
+
+
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="phoneNumber">0722738883</string>
+    <string name="password">1234</string>
+    <string name="email">kevosoft4@gmail.com</string>
+</resources>
